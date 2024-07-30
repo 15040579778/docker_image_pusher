@@ -1,1 +1,1 @@
---platform=linux/arm64 yashandb-personal:v23.1.1.100
+--platform=linux/arm64 nginx
