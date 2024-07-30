@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx
+nsioo/ewomailserver:latest
