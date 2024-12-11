@@ -1,2 +1,2 @@
-nsioo/ewomailserver:latest
+alpine
 openjdk:8
