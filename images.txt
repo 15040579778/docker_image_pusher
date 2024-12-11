@@ -1,1 +1,2 @@
 nsioo/ewomailserver:latest
+openjdk:8
